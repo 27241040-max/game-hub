@@ -1,13 +1,13 @@
 # GameHub
 
-![GameHub 首页]![alt text](image.png)
+![GameHub 首页](image.png)
 
 GameHub 是一个游戏发现类 Web 应用，基于 RAWG API 提供平台、类型与排序筛选，帮助用户快速找到想玩的游戏。界面强调信息密度与筛选效率。
 
 ## 🎬 在线演示
 
 - **项目地址**：[https://github.com/27241040-max/game-hub](https://github.com/27241040-max/game-hub)
-- **演示视频**：[点击查看演示](https://www.youtube.com/watch?v=demo) （待补充）
+- **演示视频**：[点击查看演示](https://www.bilibili.com/video/BV1mifEB2Euk/?vd_source=7f385757548beeee8481d552f09bf223)
 
 ## 项目亮点
 
