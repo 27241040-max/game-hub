@@ -6,8 +6,10 @@ GameHub 是一个游戏发现类 Web 应用，基于 RAWG API 提供平台、类
 
 ## 🎬 在线演示
 
-- **项目地址**：[https://github.com/27241040-max/game-hub](https://github.com/27241040-max/game-hub)
+- **部署地址**：[https://game-hub-taupe-six.vercel.app/](https://game-hub-taupe-six.vercel.app/)（已于 Vercel 部署）
 - **演示视频**：[点击查看演示](https://www.bilibili.com/video/BV1mifEB2Euk/?vd_source=7f385757548beeee8481d552f09bf223)
+
+- **AI 智能客服与评论总结系统（全栈）**：[https://github.com/27241040-max/my-app](https://github.com/27241040-max/my-app)
 
 ## 项目亮点
 
